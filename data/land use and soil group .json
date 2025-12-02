@@ -1,0 +1,182 @@
+[
+    {
+        "Land Use": "Open Water",
+        "Abbreviation": "open_wat",
+        "LU Code": 11,
+        "k_c": 1,
+        "CN": {
+            "A": 100,
+            "B": 100,
+            "C": 100,
+            "D": 100
+        }
+    },
+    {
+        "Land Use": "Developed Open",
+        "Abbreviation": "dev_open",
+        "LU Code": 21,
+        "k_c": 0.7,
+        "CN": {
+            "A": 39,
+            "B": 61,
+            "C": 74,
+            "D": 80
+        }
+    },
+    {
+        "Land Use": "Developed Low",
+        "Abbreviation": "dev_low",
+        "LU Code": 22,
+        "k_c": 0.42,
+        "CN": {
+            "A": 51,
+            "B": 68,
+            "C": 79,
+            "D": 84
+        }
+    },
+    {
+        "Land Use": "Developed Med",
+        "Abbreviation": "dev_med",
+        "LU Code": 23,
+        "k_c": 0.18,
+        "CN": {
+            "A": 77,
+            "B": 85,
+            "C": 90,
+            "D": 92
+        }
+    },
+    {
+        "Land Use": "Developed High",
+        "Abbreviation": "dev_high",
+        "LU Code": 24,
+        "k_c": 0.06,
+        "CN": {
+            "A": 89,
+            "B": 92,
+            "C": 94,
+            "D": 95
+        }
+    },
+    {
+        "Land Use": "Barren Land",
+        "Abbreviation": "barren",
+        "LU Code": 31,
+        "k_c": 0,
+        "CN": {
+            "A": 77,
+            "B": 86,
+            "C": 91,
+            "D": 94
+        }
+    },
+    {
+        "Land Use": "Deciduous Forest",
+        "Abbreviation": "dec_forest",
+        "LU Code": 41,
+        "k_c": 0.7,
+        "CN": {
+            "A": 30,
+            "B": 55,
+            "C": 70,
+            "D": 77
+        }
+    },
+    {
+        "Land Use": "Evergreen Forest",
+        "Abbreviation": "ev_forest",
+        "LU Code": 42,
+        "k_c": 0.7,
+        "CN": {
+            "A": 30,
+            "B": 55,
+            "C": 70,
+            "D": 77
+        }
+    },
+    {
+        "Land Use": "Mixed Forest",
+        "Abbreviation": "mx_forest",
+        "LU Code": 43,
+        "k_c": 0.7,
+        "CN": {
+            "A": 30,
+            "B": 55,
+            "C": 70,
+            "D": 77
+        }
+    },
+    {
+        "Land Use": "Shrub",
+        "Abbreviation": "shrub",
+        "LU Code": 52,
+        "k_c": 1,
+        "CN": {
+            "A": 35,
+            "B": 56,
+            "C": 70,
+            "D": 77
+        }
+    },
+    {
+        "Land Use": "Grassland",
+        "Abbreviation": "grassland",
+        "LU Code": 71,
+        "k_c": 0.6,
+        "CN": {
+            "A": 30,
+            "B": 58,
+            "C": 71,
+            "D": 78
+        }
+    },
+    {
+        "Land Use": "Pasture",
+        "Abbreviation": "pasture",
+        "LU Code": 81,
+        "k_c": 0.6,
+        "CN": {
+            "A": 39,
+            "B": 61,
+            "C": 74,
+            "D": 80
+        }
+    },
+    {
+        "Land Use": "Cultivated Crops",
+        "Abbreviation": "cult_crops",
+        "LU Code": 82,
+        "k_c": 0.9,
+        "CN": {
+            "A": 67,
+            "B": 78,
+            "C": 85,
+            "D": 89
+        }
+    },
+    {
+        "Land Use": "Woody Wetlands",
+        "Abbreviation": "wood_wet",
+        "LU Code": 90,
+        "k_c": 1,
+        "CN": {
+            "A": 30,
+            "B": 30,
+            "C": 30,
+            "D": 30
+        }
+    },
+    {
+        "Land Use": "Herbaceous Wetlands",
+        "Abbreviation": "herb_wet",
+        "LU Code": 95,
+        "k_c": 1,
+        "CN": {
+            "A": 30,
+            "B": 30,
+            "C": 30,
+            "D": 30
+        }
+    }
+]

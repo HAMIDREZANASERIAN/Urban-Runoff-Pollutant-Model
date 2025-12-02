@@ -1,0 +1,24 @@
+{
+    "precipitation": 40,
+    "ET_max": 1.5,
+    "subbasins": [
+        {
+            "sub_basin": 1,
+            "land_use": "grassland",
+            "hydrologic_soil_group": "D",
+            "area_m2": 3650
+        },
+        {
+            "sub_basin": 2,
+            "land_use": "shrub",
+            "hydrologic_soil_group": "C",
+            "area_m2": 4050
+        },
+        {
+            "sub_basin": 3,
+            "land_use": "pasture",
+            "hydrologic_soil_group": "A",
+            "area_m2": 7600
+        }
+    ]
+}

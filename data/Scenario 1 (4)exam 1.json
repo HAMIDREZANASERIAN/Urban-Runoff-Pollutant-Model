@@ -1,0 +1,24 @@
+{
+    "precipitation": 9,
+    "ET_max": 0.55,
+    "subbasins": [
+        {
+            "sub_basin": 1,
+            "land_use": "dev_med",
+            "hydrologic_soil_group": "D",
+            "area_m2": 3650
+        },
+        {
+            "sub_basin": 2,
+            "land_use": "dev_high",
+            "hydrologic_soil_group": "C",
+            "area_m2": 4050
+        },
+        {
+            "sub_basin": 3,
+            "land_use": "dec_forest",
+            "hydrologic_soil_group": "A",
+            "area_m2": 7600
+        }
+    ]
+}
